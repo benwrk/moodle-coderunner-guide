@@ -1,27 +1,32 @@
 # Step-by-Step Quick Start Guide for Moodle CodeRunner
 
 ## Step 1: Enable edit mode for your course
-Click the cog icon at the top right of the course page and choose `Turn editing on`.
+Click the cog icon at the top right of the course page and choose `Turn editing on`.  
+![](Step-1.png)
 
 ## Step 2: Add a new quiz
 Click on `Add an activity or resource` under the desired section.
 
-Select `Quiz` in the list and the click `Add`.
+Select `Quiz` in the list and the click `Add`.  
+![](Step-2.1.png)
 
-Add a name and a description for your quiz, scroll down to the bottom, and then click `Save and display`. You may also edit the other options for your quiz as usual.
+Add a name and a description for your quiz, scroll down to the bottom, and then click `Save and display`. You may also edit the other options for your quiz as usual.  
+![](Step-2.2.png)
 
 ## Step 3: Add a programming question
 Click `Edit quiz`.
 
 Click on the `Add` dropdown menu, then choose `a new question`.
 
-Under the `Choose a question type` window, select `CodeRunner` and then click `Add`.
+Under the `Choose a question type` window, select `CodeRunner` and then click `Add`.  
+![](Step-3.png)
 
 ## Step 4: Edit your programming question
 > **Tip:** Click on the blue `?` icon to learn more about each option.
 
 ### Question type
-Under the `CodeRunner question type` section, select the `Question type` (e.g. `python3`).
+Under the `CodeRunner question type` section, select the `Question type` (e.g. `python3`).  
+![](Step-4.1.png)
 
 #### Marking
 Under marking, choose if you want `All-or-nothing grading`. And define the `Penalty regime`. More details about what these two items mean can be read by clicking on the blue `?` icon.
