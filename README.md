@@ -33,8 +33,11 @@ Under marking, choose if you want `All-or-nothing grading`. And define the `Pena
 
 ### General
 Under the `General` section, fill out the details for your programming question.
+![](Step-4.2.png)
 
 > **Tip:** Use the editing tools the make editing your question easier.
+> 
+> ![](Step-4.3.png)
 
 ### Answer
 Under the `Answer` section, fill in the answer to the programming question. Do not forget to import the module you use (e.g. `import math`).
@@ -42,4 +45,14 @@ Under the `Answer` section, fill in the answer to the programming question. Do n
 > **Tip:** Keep the `Validate on save` option checked to have the system check your answer key against the test cases that you have defined further down on this page when you save the programming question.
 
 ### Answer box preload
-Under `Answer box preload`, you can enter the text that will be preloaded into the answer box. You can use this option to, for example, provide the import statements for your students so that the can focus on just writing the answer.
+Under `Answer box preload`, you can enter the text that will be preloaded into the answer box. You can use this option to, for example, provide the import statements for your students so that the can focus on just writing the answer. You can also use this feature to provide hints.
+
+![](Step-4.4.png)
+
+**Example:**
+```Python
+import math
+
+def square_root(n):
+    # Fill in your code
+```
